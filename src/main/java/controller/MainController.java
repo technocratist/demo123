@@ -1,7 +1,3 @@
 package controller;
 import org.springframework.stereotype.Controller;
-
-@Controller
-public class MainController {
-
-}
+import org.springframework.web.bind.annotation.GetMapping;
